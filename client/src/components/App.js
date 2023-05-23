@@ -16,6 +16,8 @@ import { format } from "date-fns";
 import BodyItems from "./BodyLocationItems";
 import TermsPrivacy from "./TermsPrivacy";
 
+//test
+
 function App() {
   const { user, isLoading } = useAuth0();
 
