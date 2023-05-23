@@ -1,0 +1,16 @@
+# Windows
+Thumbs.db
+desktop.ini
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
+
+# OS X
+.DS_Store
+.Spotlight-V100
+.Trashes
+._*
+
+node_modules/
