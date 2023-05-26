@@ -38,7 +38,7 @@
 
 ## About The Project
 
-<img alt= "homepage" src="https://cdn.discordapp.com/attachments/899929905318486046/1111541118832758785/homepage_2.gif"/>
+<img alt= "homepage" src="https://cdn.discordapp.com/attachments/899929905318486046/1111557087143669770/homepage4.gif"/>
 
 Electronic Multiverse is an online shopping platform that allows customers to browse through a wide range of electronic products, add items to their cart, and securely complete transactions. Whether customers are looking for smartphones, laptops, headphones, or other electronic gadgets, Electronic Multiverse offers a diverse selection of products to cater to their needs.
 
